@@ -1,4 +1,6 @@
-isaac_344725 | Permanente | Dono
-alejandro2449995 | Permanente | Dono
-Gxstavo7Game100 | Permanente | Moderador
-eobli7 | Permanente| Admin
+return {
+    { Nick = "isaac_344725", Expire = "Permanente", Tag = "Dono" },
+    { Nick = "alejandro244995", Expire = "Permanente", Tag = "Dono" },
+    { Nick = "Gxstavo7Game100", Expire = "Permanente", Tag = "Moderador" },
+    { Nick = "eobli7", Expire = "Permanente", Tag = "Admin" }
+}
